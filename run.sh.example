@@ -1,0 +1,6 @@
+#!/bin/bash
+
+export CLIENT_ID="xxxxxx-xxxxxx.apps.googleusercontent.com"
+export CLIENT_SECRET="xxxxxx"
+
+go run application.go
